@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background: #fbf6ef;
+  color: #3d2317;
+  /* Suite stack — same as Finance and Kitchen. */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
